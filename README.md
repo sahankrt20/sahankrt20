@@ -4,7 +4,7 @@ Welcome to my personal GitHub repository! This space serves as a collection of m
 
 ## About Me
 
-I am a Machine Learning Engineer passionate about solving complex problems and uncovering insights from data. My work combines creativity, adaptability, and technical proficiency to build impactful solutions. I specialize in developing and deploying machine learning models and have expertise in multiple programming languages.
+I am a Machine Learning Enthusiast passionate about solving complex problems and uncovering insights from data. My work combines creativity, adaptability, and technical proficiency to build impactful solutions. I specialize in developing and deploying machine learning models and have expertise in multiple programming languages.
 
 ## Repository Overview
 
