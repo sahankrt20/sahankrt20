@@ -22,21 +22,6 @@ This repository showcases my:
 
 ## Featured Projects
 
-1. **Project Name 1**
-   - **Description**: Brief overview of the project.
-   - **Technologies**: Python, TensorFlow, etc.
-   - [View Repository](#)
-
-2. **Project Name 2**
-   - **Description**: Brief overview of the project.
-   - **Technologies**: C++, OpenCV, etc.
-   - [View Repository](#)
-
-3. **Project Name 3**
-   - **Description**: Brief overview of the project.
-   - **Technologies**: JavaScript, Node.js, JSON, etc.
-   - [View Repository](#)
-
 ## Get in Touch
 
 - **Email**: [YourEmail@example.com]
@@ -87,7 +72,7 @@ This repository showcases my:
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/sahantimilsina/output/snake.svg" alt="Snake animation" />
 
 ###
 
