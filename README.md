@@ -18,7 +18,7 @@ This repository showcases my:
 
 - **Python**: For data analysis, machine learning, and AI development.
 - **C++**: For performance-critical applications and algorithm development.
-- **JavaScript/JSON**: For API integrations and frontend/backend interactions.
+- **JavaScript/JSON**: For API integrations.
 
 ## Language Usage
 
