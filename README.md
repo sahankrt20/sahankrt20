@@ -28,7 +28,7 @@ This repository showcases my:
 
 ## Featured Projects
 
-- **[Project 1: Predictive Analysis Using LSTM](#)**: Time-series forecasting using advanced neural networks..
+..
 
 ## Get in Touch
 
