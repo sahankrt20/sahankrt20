@@ -24,14 +24,11 @@ This repository showcases my:
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sahankrt20&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahankrt20&layout=compact&langs_count=5&theme=dracula&hide_border=false" height="150" alt="language usage chart" />
 </div>
 
 ## Featured Projects
 
-- **[Project 1: Predictive Analysis Using LSTM](#)**: Time-series forecasting using advanced neural networks.
-- **[Project 2: Graph Neural Networks in Social Network Analysis](#)**: Applying GCNNs to analyze and model social interactions.
-- **[Project 3: Sentiment Analysis Pipeline](#)**: A complete pipeline for analyzing text sentiments using NLP.
+- **[Project 1: Predictive Analysis Using LSTM](#)**: Time-series forecasting using advanced neural networks..
 
 ## Get in Touch
 
@@ -69,3 +66,4 @@ This repository showcases my:
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
 </div>
+
