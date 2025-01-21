@@ -23,13 +23,11 @@ This repository showcases my:
 ## Language Usage
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sahankrt20&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-</div>
-
-### Programming Language Distribution
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pie?username=sahankrt20&theme=dracula&hide_border=false" height="150" alt="languages pie chart" />
+  <img src="https://img.shields.io/static/v1?message=Python&logo=python&label=&color=306998&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="python logo" />
+  <img width="12" />
+  <img src="https://img.shields.io/static/v1?message=C%2B%2B&logo=cplusplus&label=&color=00599C&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="C++ logo" />
+  <img width="12" />
+  <img src="https://img.shields.io/static/v1?message=JavaScript&logo=javascript&label=&color=F7DF1E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="javascript logo" />
 </div>
 
 ---
@@ -73,4 +71,5 @@ This repository showcases my:
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo" />
   </a>
 </div>
+
 
