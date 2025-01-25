@@ -24,7 +24,7 @@ This project aims to predict the stock market of Netflix series based on various
 - Utilized ML models like Linear Regression  and Decision trees.
 - Visualized key trends using Python libraries like Matplotlib and Seaborn.
 
-📂 [Project Repository](#) *(Link to your project repository can be added here)*
+📂 [Project Repository](#) *(https://github.com/sahankrt20/NETFLIX-STOCK-MARKET-PREDICTION)*
 
 ---
 
