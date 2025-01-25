@@ -16,12 +16,12 @@ This repository showcases my:
 
 ## Projects
 
-### **Netflix Series Prediction**
-This project aims to predict the success of Netflix series based on various factors like genre, runtime, cast popularity, and production quality using regression and classification models.
+### **Netflix(NFLX) Series Stock Market Prediction**
+This project aims to predict the stock market of Netflix series based on various factors like Open,High,Close,Low and Volume.
 
 #### **Key Features**:
-- Analyzed historical Netflix data for patterns in successful series.
-- Utilized ML models like Linear Regression, Random Forest, and Gradient Boosting.
+- Analyzed factors such as High,Open,Low,Close and Volume.
+- Utilized ML models like Linear Regression  and Decision trees.
 - Visualized key trends using Python libraries like Matplotlib and Seaborn.
 
 📂 [Project Repository](#) *(Link to your project repository can be added here)*
