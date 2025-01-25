@@ -46,12 +46,6 @@ This project aims to predict the stock market of Netflix based on various factor
 
 ---
 
-## Inspiration: Lionel Messi's Triumph
-
-<img align="center" height="300" src="https://www.aljazeera.com/wp-content/uploads/2022/12/000_33432QW.jpg" alt="Lionel Messi lifting World Cup" />
-
----
-
 ## Get in Touch
 
 - **Email**: [sahantimilsina@gmail.com](mailto:sahantimilsina@gmail.com)
