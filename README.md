@@ -14,6 +14,20 @@ This repository showcases my:
 - **Learning Resources**: Notebooks and scripts exploring new concepts and techniques.
 - **Collaborations**: Contributions to open-source or team projects.
 
+## Projects
+
+### **Netflix Series Prediction**
+This project aims to predict the success of Netflix series based on various factors like genre, runtime, cast popularity, and production quality using regression and classification models.
+
+#### **Key Features**:
+- Analyzed historical Netflix data for patterns in successful series.
+- Utilized ML models like Linear Regression, Random Forest, and Gradient Boosting.
+- Visualized key trends using Python libraries like Matplotlib and Seaborn.
+
+📂 [Project Repository](#) *(Link to your project repository can be added here)*
+
+---
+
 ## Programming Languages
 
 - **Python**: For data analysis, machine learning, and AI development.
@@ -32,7 +46,7 @@ This repository showcases my:
 
 ---
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Lionel_Messi_in_action_2014.jpg/800px-Lionel_Messi_in_action_2014.jpg" alt="Messi playing football" />
 
 ---
 
@@ -54,6 +68,7 @@ This repository showcases my:
 - **Email**: [sahantimilsina@gmail.com](mailto:sahantimilsina@gmail.com)
 - **LinkedIn**: [![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/sahan-timilsina-5009aa244/)
 - **GitHub**: [My GitHub Profile](https://github.com/sahankrt20)
+- **Kaggle**: [![Kaggle](https://img.shields.io/static/v1?message=Kaggle&logo=kaggle&label=&color=20BEFF&logoColor=white&labelColor=&style=for-the-badge)](https://www.kaggle.com/sahantimilsina)
 - **YouTube**: [![YouTube](https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge)](https://www.youtube.com/@sahantimilsina8979)
 - **Discord**: [![Discord](https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge)](https://discordapp.com/users/sahan_2069)
 
@@ -70,6 +85,3 @@ This repository showcases my:
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo" />
   </a>
 </div>
-
-
-
