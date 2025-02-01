@@ -54,6 +54,7 @@ This project aims to predict the stock market of Netflix based on various factor
 - **Kaggle**: [![Kaggle](https://img.shields.io/static/v1?message=Kaggle&logo=kaggle&label=&color=20BEFF&logoColor=white&labelColor=&style=for-the-badge)](https://www.kaggle.com/sahantimilsina)
 - **YouTube**: [![YouTube](https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge)](https://www.youtube.com/@sahantimilsina8979)
 - **Discord**: [![Discord](https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge)](https://discordapp.com/users/sahan_2069)
+- **LeetCode**: [![LeetCode](https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge)](https://leetcode.com/u/sahanrt02/)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sahankrt20&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
