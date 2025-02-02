@@ -46,6 +46,16 @@ This project aims to predict the stock market of Netflix based on various factor
 
 ---
 
+## GitHub Stats  
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahankrt20&theme=dracula&hide_border=false" height="150" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sahankrt20&show_icons=true&theme=dracula&hide_border=false&count_private=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sahankrt20&locale=en&layout=compact&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
+</div>
+
+---
+
 ## Get in Touch
 
 - **Email**: [sahantimilsina@gmail.com](mailto:sahantimilsina@gmail.com)
@@ -55,7 +65,4 @@ This project aims to predict the stock market of Netflix based on various factor
 - **YouTube**: [![YouTube](https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge)](https://www.youtube.com/@sahantimilsina8979)
 - **Discord**: [![Discord](https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge)](https://discordapp.com/users/sahan_2069)
 - **LeetCode**: [![LeetCode](https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge)](https://leetcode.com/u/sahanrt02/)
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sahankrt20&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
 </div>
