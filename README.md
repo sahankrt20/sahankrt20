@@ -65,4 +65,6 @@ This project aims to predict the stock market of Netflix based on various factor
 - **YouTube**: [![YouTube](https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge)](https://www.youtube.com/@sahantimilsina8979)
 - **Discord**: [![Discord](https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge)](https://discordapp.com/users/sahan_2069)
 - **LeetCode**: [![LeetCode](https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge)](https://leetcode.com/u/sahanrt02/)
+- **Twitter**: [![Twitter](https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge)](https://x.com/_san_520)
+
 </div>
