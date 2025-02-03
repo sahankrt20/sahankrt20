@@ -49,7 +49,6 @@ This project aims to predict the stock market of Netflix based on various factor
 ## GitHub Stats  
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahankrt20&theme=dracula&hide_border=false" height="150" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api?username=sahankrt20&show_icons=true&theme=dracula&hide_border=false&count_private=true" height="150" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sahankrt20&locale=en&layout=compact&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
 </div>
