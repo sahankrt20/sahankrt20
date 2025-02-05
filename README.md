@@ -54,6 +54,12 @@ This project aims to predict the stock market of Netflix based on various factor
 </div>
 
 ---
+## Github Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sahankrt20&theme=dracula&bg_color=282a36&color=ffffff&line=ff6b81&point=ffffff&hide_border=false" alt="GitHub Activity Graph" />
+</div>
+
 
 ## Get in Touch
 
@@ -66,9 +72,4 @@ This project aims to predict the stock market of Netflix based on various factor
 - **LeetCode**: [![LeetCode](https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge)](https://leetcode.com/u/sahanrt02/)
 - **Twitter**: [![Twitter](https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge)](https://x.com/_san_520)
 
-</div>
-## GitHub Activity 
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sahankrt20&theme=dracula&bg_color=282a36&color=ffffff&line=ff6b81&point=ffffff&hide_border=false" alt="GitHub Activity Graph" />
 </div>
